@@ -1,6 +1,6 @@
 # clarify-me
 
-<img src="/images/clarifyme_ui.png/>
+<img src="/images/clarifyme_ui.png"/>
 
 Front-end nodejs/React/Polymer PWA app for well-being analytics tracking.
 
